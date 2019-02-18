@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Z2\Z2\bin\Debug\Z2.exe.config
+C:\Users\user\source\repos\Z2\Z2\bin\Debug\Z2.exe
+C:\Users\user\source\repos\Z2\Z2\bin\Debug\Z2.pdb
+C:\Users\user\source\repos\Z2\Z2\obj\Debug\Z2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Z2\Z2\obj\Debug\Z2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Z2\Z2\obj\Debug\Z2.exe
+C:\Users\user\source\repos\Z2\Z2\obj\Debug\Z2.pdb
+C:\Users\user\source\repos\Z2\Z2\bin\Debug\SerialTransport.dll
+C:\Users\user\source\repos\Z2\Z2\bin\Debug\SerialTransport.pdb
+C:\Users\user\source\repos\Z2\Z2\obj\Debug\Z2.csproj.CopyComplete

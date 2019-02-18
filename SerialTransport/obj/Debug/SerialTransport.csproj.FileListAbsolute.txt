@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Z2\SerialTransport\bin\Debug\SerialTransport.dll
+C:\Users\user\source\repos\Z2\SerialTransport\bin\Debug\SerialTransport.pdb
+C:\Users\user\source\repos\Z2\SerialTransport\obj\Debug\SerialTransport.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Z2\SerialTransport\obj\Debug\SerialTransport.dll
+C:\Users\user\source\repos\Z2\SerialTransport\obj\Debug\SerialTransport.pdb
+C:\Users\user\source\repos\Z2\SerialTransport\obj\Debug\SerialTransport.csprojAssemblyReference.cache
